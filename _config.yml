@@ -1,12 +1,12 @@
 # Site settings
-title:          Rain
+title:          alinwrites
 description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
+url:            https://github.com/alinwrites/alinwrites.github.io
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
+  name:         Angel Lin
+  email:        alinwrites35@gmail.com
   url:          https://inelaah.com
 
 # Build settings
