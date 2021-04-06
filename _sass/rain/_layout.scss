@@ -96,5 +96,6 @@ footer {
   span {
     color: $default-color;
     font-size: .8rem;
+    text-align: left; /* shifting footer note to the left */
   }
 }
