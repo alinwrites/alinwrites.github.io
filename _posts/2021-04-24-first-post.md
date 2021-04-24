@@ -15,7 +15,7 @@ I am still unsure about blogging; however, I'll do my best to post every so ofte
 In other news, my very [first article for The Geekiary](https://thegeekiary.com/ride-or-die-movie-review/94805) was posted yesterday. 
 
 ![ride or die netflix film](https://i2.wp.com/www.otaquest.com/wp-content/uploads/2021/04/D7705614-BC14-47E2-A84C-39EF6666D1FF.jpeg?fit=640%2C468&ssl=1)
-_Nanae (left) and Rei (right) cuddling together as they watch the sunrise. Image: *Ride or Die*_
+_Nanae (left) and Rei (right) cuddling together as they watch the sunrise. Image: Ride or Die_
 
 As I look at tweets about the movie, I realize that *Ride or Die* is a bit controversial with many people feeling disappointment at the movie's portrayal of a lesbian relationship. Indeed, I am inclined to agree that it is not necessarily the best representation of lesbian relationships.
 
