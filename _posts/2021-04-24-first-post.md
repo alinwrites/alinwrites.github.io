@@ -9,7 +9,8 @@ Hello world! This is my first post to this blog **alinwrites**. Yay!!!
 ![cat reading newspaper meme](https://media.makeameme.org/created/we-must-celebrate-ltpfj2.jpg)
 
 I am still unsure about blogging; however, I'll do my best to post every so often. This site is still undergoing some minor fixes here and there as I experiment with the layout with my amateur coding skills.
-<br>
+  
+  
 <hr>
 <br>
 In other news, my very [first article for The Geekiary](https://thegeekiary.com/ride-or-die-movie-review/94805) was posted yesterday. 
